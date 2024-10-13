@@ -1,7 +1,7 @@
 # Exercise04a-StateMachines
 
 ## Implementation
-Which features you included.
+Added sprite animations
 
 ## References
 
